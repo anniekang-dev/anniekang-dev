@@ -1,10 +1,11 @@
-# 👋 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲! 𝗜𝘁'𝘀 𝗔𝗻𝗻𝗶𝗲
+# <span style="color:white">👋 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲! 𝗜𝘁'𝘀 𝗔𝗻𝗻𝗶𝗲</span>
 
-## 👩‍💻 ɪ ᴀᴍ..
+## <span style="color:white">👩‍💻 ɪ ᴀᴍ..</span>
 👀 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘞𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘜𝘐/𝘜𝘟 𝘥𝘦𝘴𝘪𝘨𝘯<br>
 🌱 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘑𝘢𝘷𝘢𝘴𝘤𝘳𝘪𝘱𝘵, 𝘙𝘦𝘢𝘤𝘵 𝘑𝘚, 𝘢𝘯𝘥 𝘍𝘪𝘨𝘮𝘢
 
-## 🪄 ᴛᴇᴄʜ sᴛᴀᴄᴋ
+## <span style="color:white"> 🪄 ᴛᴇᴄʜ sᴛᴀᴄᴋ</span>
+
 **Languages + Frameworks**
 
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
