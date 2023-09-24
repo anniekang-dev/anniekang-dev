@@ -2,7 +2,7 @@
 
 ### 👩‍💻 I am..
 👀 interested in Web development and UI/UX design<br>
-🌱 currently learning Javascript and React JS
+🌱 currently learning Javascript, React JS, and Figma
 
 ### 🪄 Tech Stack
 **Languages + Frameworks**
