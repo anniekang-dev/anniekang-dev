@@ -21,3 +21,5 @@
 ![Static Badge](https://img.shields.io/badge/adobephotoshop-%2383B81A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/adobeillustrator-%23FF9A00?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniekang-dev&hide_progress=true)
