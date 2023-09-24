@@ -29,3 +29,4 @@
 ![Static Badge](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniekang-dev&hide_progress=true)
+
