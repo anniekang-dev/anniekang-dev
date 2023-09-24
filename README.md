@@ -1,10 +1,14 @@
-# <span style="color:white">👋🏻 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲! 𝗜𝘁'𝘀 𝗔𝗻𝗻𝗶𝗲</span>
+# <span style="color:white">👋🏻 Hi, there! It's Annie</span>
 
-## <span style="color:white">👩🏻‍💻 ɪ ᴀᴍ</span>
-👀 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘦𝘥 𝘪𝘯 𝘞𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘜𝘐/𝘜𝘟 𝘥𝘦𝘴𝘪𝘨𝘯<br>
-🌱 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘑𝘢𝘷𝘢𝘴𝘤𝘳𝘪𝘱𝘵 𝘢𝘯𝘥 𝘙𝘦𝘢𝘤𝘵 𝘑𝘚
+### <span style="color:white">👀 I'm interested in</span>
+- Web/App Development
+- UI/UX Design
 
-## <span style="color:white"> 🪄 ᴛᴇᴄʜ sᴛᴀᴄᴋ</span>
+### <span style="color:white">🌱 I'm currently learning</span>
+- Javascript
+- React JS
+
+### <span style="color:white"> 🪄 Tech Stacks </span>
 
 **Languages + Frameworks**
 
@@ -23,5 +27,9 @@
 ![Static Badge](https://img.shields.io/badge/figma-%2383B81A?style=for-the-badge&logo=figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/adobe%20photoshop-%23EF5C55?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+### <span style="color:white">🤓 I'm going to learn</span>
+- Python
+- Flutter
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniekang-dev&hide_progress=true)
