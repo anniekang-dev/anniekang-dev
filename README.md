@@ -21,7 +21,7 @@
 
 **Tools**
 
-![Static Badge](https://img.shields.io/badge/VS%20Code-%2336566F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VS%20Code-%23143059?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23E6E6E6?style=for-the-badge&logo=git&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/figma-%23A4286A?style=for-the-badge&logo=figma&logoColor=white)
