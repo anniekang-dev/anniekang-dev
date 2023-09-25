@@ -1,10 +1,10 @@
-# <span style="color:white">👋🏻 Hi, there! It's Annie </span>
+# <span style="color:white"> 👋🏻 Hi, there! It's Annie </span>
 
-### <span style="color:white">👀 I'm interested in </span>
+### <span style="color:white"> 🧐 I'm interested in </span>
 - Web/Mobile App Development
 - UI/UX Design
 
-### <span style="color:white">🌱 I'm currently learning </span>
+### <span style="color:white"> 🌱 I'm currently learning </span>
 - Javascript
 - React JS
 
