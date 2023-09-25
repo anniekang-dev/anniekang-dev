@@ -21,11 +21,11 @@
 
 **Tools**
 
-![Static Badge](https://img.shields.io/badge/VS%20Code-%2326689A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Static Badge](https://img.shields.io/badge/VS%20Code-%2336566F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-%23E6E6E6?style=for-the-badge&logo=git&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/figma-%23A4286A?style=for-the-badge&logo=figma&logoColor=white)
-![Static Badge](https://img.shields.io/badge/adobe%20photoshop-%2383B81A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Static Badge](https://img.shields.io/badge/adobe%20photoshop-%23648B1A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniekang-dev&hide_progress=true)
