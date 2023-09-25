@@ -8,7 +8,7 @@
 - Javascript
 - React JS
 
-### <span style="color:white"> 🪄 Tech Stacks </span>
+### <span style="color:white"> 👩🏻‍💻 Tech Stacks </span>
 
 **Languages + Frameworks**
 
