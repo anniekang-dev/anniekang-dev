@@ -1,6 +1,6 @@
 # <span style="color:white"> 👋🏻 Hi, there! It's Annie </span>
 
-### <span style="color:white"> 🧐 I'm interested in </span>
+### <span style="color:white"> 🧐 I'm interested in & studying for</span>
 - Web/Mobile App Development
 - UI/UX Design
 
