@@ -10,7 +10,7 @@
 
 ### <span style="color:white"> 👩🏻‍💻 Tech Stacks </span>
 
-**Languages + Frameworks**
+**Languages + Frameworks(or Libraries)**
 
 ![Static Badge](https://img.shields.io/badge/HTML5-B3382C?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
