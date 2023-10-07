@@ -2,7 +2,7 @@
 
 ### <span style="color:white"> 🧐 I'm interested in & studying for</span>
 - Web/App Development
-- UI/UX Design
+- UX/UI Design
 
 ### <span style="color:white"> 🌱 I'm currently learning </span>
 - Javascript
