@@ -1,6 +1,6 @@
 <div align="center">
 
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%20Trust&nbsp;that&nbsp;the&nbsp;dots&nbsp;will&nbsp;somehow&nbsp;connect&nbsp;in&nbsp;your&nbsp;future&author=Steve&nbsp;Jobs&type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=trust&nbsp;that&nbsp;the&nbsp;dots&nbsp;will&nbsp;somehow&nbsp;connect&nbsp;in&nbsp;your&nbsp;future&author=Steve&nbsp;Jobs&type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 ## <span style="color:white"> 👋🏻 Hi, there! It's Annie :) </span>
