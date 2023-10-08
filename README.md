@@ -28,4 +28,4 @@
 ![Static Badge](https://img.shields.io/badge/adobe%20photoshop-%23648B1A?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniekang-dev&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniekang-dev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
